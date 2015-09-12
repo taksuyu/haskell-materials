@@ -18,11 +18,7 @@ If you need help setting up an IRC client, I have provided some screenshots of
 how to connect with [KiwiIRC](https://kiwiirc.com/client) which is a web browser
 based client.
 
-![The main screen of KiwiIRC]
-(https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_main_screen.png)
-![Click on Freenode on the right]
-(https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_freenode.png)
-![Type in the channel you want to visit]
+![]
 (https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_haskell_beginners_channel.png)
 
 Then you are good to go!
