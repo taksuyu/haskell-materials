@@ -1,5 +1,11 @@
 # Package management
 
+**WARNING: This page is still under construction!**
+
+It's been added because as of this moment it contains useful links that may be
+of use to a user without necessarily providing insight as to how the tools
+themselves should be used.
+
 There are a few ways to ~~manage~~ install packages for Haskell.
 
 ## cabal
