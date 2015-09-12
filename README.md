@@ -19,11 +19,11 @@ how to connect with [KiwiIRC](https://kiwiirc.com/client) which is a web browser
 based client.
 
 ![The main screen of KiwiIRC]
-(https://raw.githubusercontent.com/taksuyu/haskell-materials/assets/kiwi_main_screen.png)
+(https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_freenode.png)
 ![Click on Freenode on the right]
-(https://raw.githubusercontent.com/taksuyu/haskell-materials/assets/kiwi_freenode.png)
+(https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_freenode.png)
 ![Type in the channel you want to visit]
-(https://raw.githubusercontent.com/taksuyu/haskell-materials/assets/kiwi_haskell_beginners_channel.png)
+(https://raw.githubusercontent.com/TakSuyu/haskell-materials/master/assets/kiwi_haskell_beginners_channel.png)
 
 Then you are good to go!
 
